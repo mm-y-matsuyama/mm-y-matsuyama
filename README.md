@@ -20,8 +20,3 @@ Platform Engineer — Infrastructure as Code / GitOps / 開発基盤の自動化
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-## 📊 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm-y-matsuyama&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mm-y-matsuyama&show_icons=true&count_private=true)
