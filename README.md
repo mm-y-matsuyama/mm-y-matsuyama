@@ -1,6 +1,6 @@
-# Hi, I'm Yoshio 👋
+# Hi there 👋
 
-Platform Engineer — Infrastructure as Code / GitOps / 開発基盤の自動化
+Platform Engineer — Infrastructure as Code / GitOps / Platform Automation
 
 ## 🧰 Tech Stack
 
